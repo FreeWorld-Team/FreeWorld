@@ -449,10 +449,11 @@ h6 {
   animation:text 5s 1;
   }
   .text2 {
-  font-size:30px;
-  color:#34ebd2;
-  animation:texts 5s 5;
-  animation-delay:4s;
+    background-color: #000;
+    opacity: 0.5;
+    color: white;
+    width: 40%;
+    height: 100px;
   }
   @keyframes text{
   0%{
